@@ -1,5 +1,5 @@
 #installing ubuntu
-FORM ubuntu
+FROM ubuntu
 MAINTAINER akanksha srivastava
 
 
